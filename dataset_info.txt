@@ -1,0 +1,5 @@
+DATASET_ROOT=vietnamese_traffic_signs
+IMAGES_DIR=vietnamese_traffic_signs\archive\images
+LABELS_DIR=vietnamese_traffic_signs\archive\labels
+CLASSES_FILES=vietnamese_traffic_signs\archive\classes.txt;vietnamese_traffic_signs\archive\classes_en.txt;vietnamese_traffic_signs\archive\classes_vie.txt
+TOTAL_PAIRS=6432
