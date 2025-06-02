@@ -1,0 +1,211 @@
+# THAM CHIẾU CLASSES BIỂN BÁO VIỆT NAM
+# Mapping từ classes gốc (có dấu) sang classes model (không dấu)
+
+Class 0:
+  Tên gốc: W.224
+  Tên model: w224
+
+Class 1:
+  Tên gốc: W.205c
+  Tên model: w205c
+
+Class 2:
+  Tên gốc: P.102
+  Tên model: p102
+
+Class 3:
+  Tên gốc: R.302a
+  Tên model: r302a
+
+Class 4:
+  Tên gốc: W.205a
+  Tên model: w205a
+
+Class 5:
+  Tên gốc: W.207
+  Tên model: w207
+
+Class 6:
+  Tên gốc: W.201a
+  Tên model: w201a
+
+Class 7:
+  Tên gốc: P.123a
+  Tên model: p123a
+
+Class 8:
+  Tên gốc: I.434a
+  Tên model: i434a
+
+Class 9:
+  Tên gốc: R.303
+  Tên model: r303
+
+Class 10:
+  Tên gốc: P.130
+  Tên model: p130
+
+Class 11:
+  Tên gốc: I.409
+  Tên model: i409
+
+Class 12:
+  Tên gốc: R.415a
+  Tên model: r415a
+
+Class 13:
+  Tên gốc: W.245a
+  Tên model: w245a
+
+Class 14:
+  Tên gốc: P.106a*Xe tải
+  Tên model: p106axe_tai
+
+Class 15:
+  Tên gốc: W.203c
+  Tên model: w203c
+
+Class 16:
+  Tên gốc: P.117*
+  Tên model: p117
+
+Class 17:
+  Tên gốc: P.124a*
+  Tên model: p124a
+
+Class 18:
+  Tên gốc: P.107
+  Tên model: p107
+
+Class 19:
+  Tên gốc: P.124d
+  Tên model: p124d
+
+Class 20:
+  Tên gốc: P.103a
+  Tên model: p103a
+
+Class 21:
+  Tên gốc: W.203b
+  Tên model: w203b
+
+Class 22:
+  Tên gốc: W.221b
+  Tên model: w221b
+
+Class 23:
+  Tên gốc: P.111
+  Tên model: p111
+
+Class 24:
+  Tên gốc: P.129
+  Tên model: p129
+
+Class 25:
+  Tên gốc: S.505a*Xe máy
+  Tên model: s505axe_may
+
+Class 26:
+  Tên gốc: W.246a
+  Tên model: w246a
+
+Class 27:
+  Tên gốc: W.225
+  Tên model: w225
+
+Class 28:
+  Tên gốc: S.505a*Xe tải và công
+  Tên model: s505axe_tai_va_cong
+
+Class 29:
+  Tên gốc: P.104
+  Tên model: p104
+
+Class 30:
+  Tên gốc: S.505a*Xe tải
+  Tên model: s505axe_tai
+
+Class 31:
+  Tên gốc: Camera
+  Tên model: camera
+
+Class 32:
+  Tên gốc: P.123b
+  Tên model: p123b
+
+Class 33:
+  Tên gốc: W.202b
+  Tên model: w202b
+
+Class 34:
+  Tên gốc: B.8a
+  Tên model: b8a
+
+Class 35:
+  Tên gốc: P.137
+  Tên model: p137
+
+Class 36:
+  Tên gốc: P.139
+  Tên model: p139
+
+Class 37:
+  Tên gốc: W.205b
+  Tên model: w205b
+
+Class 38:
+  Tên gốc: P.127*50
+  Tên model: p12750
+
+Class 39:
+  Tên gốc: P.127*60
+  Tên model: p12760
+
+Class 40:
+  Tên gốc: P.127*80
+  Tên model: p12780
+
+Class 41:
+  Tên gốc: P.127*40
+  Tên model: p12740
+
+Class 42:
+  Tên gốc: R.301e
+  Tên model: r301e
+
+Class 43:
+  Tên gốc: W.239b*
+  Tên model: w239b
+
+Class 44:
+  Tên gốc: W.233
+  Tên model: w233
+
+Class 45:
+  Tên gốc: I.407a
+  Tên model: i407a
+
+Class 46:
+  Tên gốc: P.131a
+  Tên model: p131a
+
+Class 47:
+  Tên gốc: P.124b1
+  Tên model: p124b1
+
+Class 48:
+  Tên gốc: W.210
+  Tên model: w210
+
+Class 49:
+  Tên gốc: P.124c
+  Tên model: p124c
+
+Class 50:
+  Tên gốc: W.201b
+  Tên model: w201b
+
+Class 51:
+  Tên gốc: W.246c
+  Tên model: w246c
+
